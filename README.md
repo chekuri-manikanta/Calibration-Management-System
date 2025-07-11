@@ -101,3 +101,15 @@ In essence, XAMPP provides a suite of tools that work together to create a compr
 **"The calibration is caliculated in the CALIBRATION DETAILS, which is our required output"**
 
 
+
+**Note:**
+In the Xampp control, change the port numbers of apache according to your system, and also mysql port to 3307 from 3306.
+
+
+
+Store the codes as follows:
+
+**Xampp file** --> **htdocs** --> **Create a project folder to store codes** --> **store the php codes in the folder**
+
+  
+  **store the index page in the htdocs folder**
